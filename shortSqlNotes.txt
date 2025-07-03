@@ -1,0 +1,1 @@
+GroupBy in SQl : its combine the row and colom value
